@@ -1,0 +1,1 @@
+angular.module('loginModule',['blogApp.login.controllers']);

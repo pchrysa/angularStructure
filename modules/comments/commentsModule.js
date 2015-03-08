@@ -1,0 +1,1 @@
+angular.module('commentsModule',['blogApp.comments.controllers']);
